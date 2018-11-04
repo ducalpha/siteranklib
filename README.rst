@@ -19,7 +19,7 @@ Example how to use
 Metrics available
 -----------------
 
-- Alexa Rank
+- Alexa Ranks (global and USA)
 
 Installation
 ------------
